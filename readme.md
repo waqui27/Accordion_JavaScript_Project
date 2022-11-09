@@ -1,6 +1,6 @@
 # Accordion JavaScript_Project
 
-> ### **Deployed Website** :-[Live Link](https://accordion-js.netlify.app/)
+> ### **Deployed Website** :-[Live Link](https://accordion-jsp.netlify.app/)
 <br>
 
 ![HTML](https://img.shields.io/badge/Html-5-E34F26?style=for-the-badge&logo=HTML5)
